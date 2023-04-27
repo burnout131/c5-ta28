@@ -1,0 +1,39 @@
+html {
+  background-color: #dfdfdf;
+}
+
+body {
+  font-family: "Lucida Sans Unicode", sans-serif;
+  font-size: 14px;
+  background-color: #ffffff;
+  border: #d3d3d3 1px solid;
+  text-align: justify;
+  margin: 10px;
+}
+
+h1 {
+  text-align: center;
+  color: #5f8f11;
+  letter-spacing: 0.2em;
+}
+
+h1 span {
+  color: #bf823b;
+}
+
+h2 {
+  color: #70af0a;
+  border-bottom: #cfdfb5 1px solid;
+}
+
+h3 {
+  color: #bf823b;
+  margin-bottom: 0;
+  margin-top: 25px;
+}
+
+div.contenido {
+  border: #d3d3d3 1px solid;
+  margin: 20px 20px 10px;
+  padding: 10px 15px;
+}
