@@ -16,6 +16,10 @@ h1 {
   text-align: center;
   color: #5f8f11;
   letter-spacing: 0.2em;
+  background-image: url(./imagenes/panoramica.jpg);
+  background-position: top center;
+  background-repeat: no-repeat;
+  padding-top: 150px;
 }
 
 h1 span {
